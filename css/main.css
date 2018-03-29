@@ -1,5 +1,5 @@
 html {
-  font-family: IBM Plex Sans, sans-serif;
+  font-family: "IBM Plex Sans", sans-serif;
 }
 
 .table-wrapper table {
@@ -24,8 +24,8 @@ section {
 
 @media only screen and (min-width: 76em) {
 
- .table-wrapper {
-   overflow: visible;
- }
+  .table-wrapper {
+    overflow: visible;
+  }
 
 }
